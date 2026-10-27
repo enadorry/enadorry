@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hey, I'm enadorry 👋
+# enadorry 👋
 
-### 思いついたら、つくってみる。
+**思いついたら、つくってみる。**
 
-ゲーム、ロボット、3DCG、AI。<br>
-気になったことを形にするのが好きな、えなどりです。
+ゲーム ・ ロボット ・ 3DCG ・ AI
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-enadorry.dev-ff0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enadorry.dev)
 [![X](https://img.shields.io/badge/X-%40scarlet__shuu-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/scarlet_shuu)
@@ -13,17 +12,15 @@
 
 </div>
 
----
+## Projects
 
-## 🧪 What I'm making
+| | |
+|:--|:--|
+| [🌊 **H2OROBOT**](https://github.com/enadorry/H2OROBOT) | 水中ロボット |
+| [🧪 **chemistry-pairs**](https://github.com/enadorry/chemistry-pairs) | 化学の神経衰弱 |
+| [🛒 **KaimonoScan**](https://github.com/enadorry/convenience-store--Barcode) | バーコードで買い物 |
 
-🎮 **Game & App** — Unityでゲームやアプリを制作  
-🤖 **Robot & Electronics** — ESP32、基板、ロボットの制御  
-🎨 **3DCG & Design** — Blenderでキャラクターや作品づくり  
-🧠 **AI** — ローカルLLMやAIを使ったツール  
-🥽 **AR / VR** — 新しい体験をつくる技術に興味あり
-
-## 🛠️ Tools I use
+## Tools
 
 ![Unity](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-222222?style=flat-square&logo=blender&logoColor=white)
@@ -32,16 +29,7 @@
 ![C Sharp](https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-333333?style=flat-square&logo=cplusplus&logoColor=white)
 
-## 🚀 Projects
-
-| Project | About |
-|:--|:--|
-| [🌊 H2OROBOT](https://github.com/enadorry/H2OROBOT) | 水中ロボットに関するプロジェクト |
-| [🧪 chemistry-pairs](https://github.com/enadorry/chemistry-pairs) | 化学をテーマにした神経衰弱 |
-| [🛒 KaimonoScan](https://github.com/enadorry/convenience-store--Barcode) | バーコードを使った買い物アプリ |
-| [🌐 Portfolio](https://enadorry.dev) | 制作したものをまとめたポートフォリオ |
-
-## 📊 GitHub stats
+## GitHub
 
 <div align="center">
 
@@ -52,35 +40,22 @@
 
 </div>
 
-> 使用言語のグラフは、GitHub上の公開リポジトリをもとにした目安です。
-
-## 🎲 A little more about me
-
 <details>
-<summary>👀 えなどりの頭の中をのぞく</summary>
+<summary>🎲 えなどりの頭の中</summary>
 <br>
 
-```text
-アイデアを思いつく
-       ↓
-とりあえず作り始める
-       ↓
-「あれも追加したい！」が増えていく
-       ↓
-完成を目指して、また作る 🔧
-```
+💡 思いつく → 🔧 つくる → ✨ ひらめく → 🔧 つくる
 
 </details>
 
 <details>
-<summary>🖼️ 作品の画像を見る</summary>
+<summary>🖼️ 作品</summary>
 <br>
 <img src="videoframe_6523.png" alt="作品の画像" width="600">
 </details>
 
 <div align="center">
 
-**Thanks for visiting!** ✨  
-何か面白いもの、一緒につくろう。
+**Thanks for visiting!** ✨
 
 </div>

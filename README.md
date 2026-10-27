@@ -48,12 +48,6 @@
 
 </details>
 
-<details>
-<summary>🖼️ 作品</summary>
-<br>
-<img src="videoframe_6523.png" alt="作品の画像" width="600">
-</details>
-
 <div align="center">
 
 **Thanks for visiting!** ✨

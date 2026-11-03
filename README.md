@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-enadorry.dev-ff0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enadorry.dev)
 [![X](https://img.shields.io/badge/X-%40scarlet__shuu-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/scarlet_shuu)
 [![Instagram](https://img.shields.io/badge/Instagram-%40enadorry.2009-333333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enadorry.2009/)
+[![技術者倫理 遵守済み](https://img.shields.io/badge/%E6%8A%80%E8%A1%93%E8%80%85%E5%80%AB%E7%90%86-%E9%81%B5%E5%AE%88%E6%B8%88%E3%81%BF-0a0a0a?style=for-the-badge&labelColor=ffffff)](https://技術者倫理.com)
 
 </div>
 
